@@ -47,4 +47,5 @@ Projeto do curso "Flask: avançando no desenvolvimento web com Python" da Alura
 1. python -m virtualenv .venv
 2. source .venv/scripts/activate
 3. pip install -r requirements.txt
-4. python jogoteca.py
+4. python prepara_banco.py
+5. python jogoteca.py
